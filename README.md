@@ -3,3 +3,9 @@
 
 Установка etcd отсюда
 https://etcd.io/docs/v3.5/install/
+
+
+copilot.github.com
+AI от Github, который пишет за тебя код
+
+go get go.etcd.io/etcd/client/v3
